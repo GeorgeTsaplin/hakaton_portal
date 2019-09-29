@@ -1,0 +1,6 @@
+{
+  "title": "Vue Enterprise Boilerplate",
+  "description": "Opinionated boilerplate project for an enterprise Vue frontend",
+  "api_host": "http://localhost:8000",
+  "ymaps_api_key": "2692fbc7-14f9-4635-85a0-38a11915b7a3"
+}
